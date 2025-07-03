@@ -16,3 +16,5 @@ object removal and object replacement to be compared to a ground-truth measure.
 
 
 ## Evaluation
+
+![Evaluation](./media_files/evaluation.png)
