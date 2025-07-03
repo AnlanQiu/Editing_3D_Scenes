@@ -14,9 +14,11 @@ object removal and object replacement to be compared to a ground-truth measure.
 
 ### Replacement
 
+![replacement](./media_files/replacement.png)
+
 ### Repositioning
 
-![Replacement](./media_files/reposition.png)
+![repositioning](./media_files/repositioning.png)
 
 ## Evaluation
 
