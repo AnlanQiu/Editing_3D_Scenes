@@ -12,4 +12,7 @@ object removal and object replacement to be compared to a ground-truth measure.
 
 ## Results
 
+[▶️ Play the demo video](./media_files/repositioning.mp4)
+
+
 ## Evaluation
