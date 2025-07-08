@@ -12,6 +12,8 @@ object removal and object replacement to be compared to a ground-truth measure.
 
 ## Results
 
+While the object is moved or replaced in the 3D point cloud, here are some 2D renders of the generated point cloud using the pipeline:
+
 ### Replacement
 
 ![replacement](./media_files/replacement.png)
