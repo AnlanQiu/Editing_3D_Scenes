@@ -24,4 +24,6 @@ While the object is moved or replaced in the 3D point cloud, here are some 2D re
 
 ## Evaluation
 
+Quantitative evaluation was performed on the pipeline. We compare renders of the generated point cloud with ground truth images. Here, the pipeline has removed the object and inserted the object back in the exact same location. Hence, the images from the original point cloud, from the same camera-angle, can act as the ground truth.
+
 ![Evaluation](./media_files/evaluation.png)
