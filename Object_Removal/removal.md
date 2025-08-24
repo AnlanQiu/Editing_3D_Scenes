@@ -2,4 +2,4 @@
 
 ## Removal via Inpainting
 
-![removal inpainting](./media_files/removal_inpainting.png)
+![removal inpainting](../media_files/removal_inpainting.png)
