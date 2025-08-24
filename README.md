@@ -34,5 +34,5 @@ Quantitative evaluation was performed on the pipeline. We compare renders of the
 
 The task of repositioning an object in a 3D scene is composed of two steps: removing the object from its original location, and adding it into a new location. Detailed guidance on performing these steps can be found in the following pages:
 
-1. ![Object Removal](./Object_Removal/removal.md)
-2. ![Object Insertion](./Object_Insertion/insertion.md)
+1. [Object Removal](./Object_Removal/removal.md)
+2. [Object Insertion](./Object_Insertion/insertion.md)
